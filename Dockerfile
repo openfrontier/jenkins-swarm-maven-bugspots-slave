@@ -1,4 +1,4 @@
-FROM openfrontier/jenkins-swarm-slave
+FROM openfrontier/jenkins-swarm-maven-slave
 
 MAINTAINER XJD <xing.jiudong@trans-cosmos.com.cn>
 
